@@ -1,6 +1,6 @@
 # makeHtmlKanbanTxt
 
-Generate a html kanban board from a todo.txt to do list. See [here](https://github.com/todotxt/todo.txt) for a detailled description of the format.
+Generate a html kanban board from a todo.txt to do list. See [here](https://github.com/todotxt/todo.txt) for a detailled description of the todo.txt format.
 
 ## Preriquisites
 
