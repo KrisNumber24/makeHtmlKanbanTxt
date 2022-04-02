@@ -31,9 +31,9 @@ I used the todo.txt priority prefixes to define in which column each task should
 
 ## Current support of the todo.txt format
 
--[x] priority prefixes
--[x] project tags `+project`
--[x] context tags `@context`
--[ ] creation date
--[ ] completion date
--[ ] special key/value tags
+- [x] priority prefixes
+- [x] project tags `+project`
+- [x] context tags `@context`
+- [ ] creation date
+- [ ] completion date
+- [ ] special key/value tags
